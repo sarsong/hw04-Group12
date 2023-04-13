@@ -3,7 +3,7 @@
 # If you wish to continue using _config.yml, make edits to that file and
 # re-generate this one.
 ###############################################################################
-author = 'The Jupyter Book Community'
+author = 'Group 12'
 bibtex_bibfiles = ['references.bib']
 comments_config = {'hypothesis': False, 'utterances': False}
 copyright = '2022'
@@ -16,8 +16,8 @@ html_favicon = ''
 html_logo = 'logo.png'
 html_sourcelink_suffix = ''
 html_theme = 'sphinx_book_theme'
-html_theme_options = {'search_bar_text': 'Search this book...', 'launch_buttons': {'notebook_interface': 'classic', 'binderhub_url': '', 'jupyterhub_url': '', 'thebe': False, 'colab_url': ''}, 'path_to_docs': 'docs', 'repository_url': 'https://github.com/executablebooks/jupyter-book', 'repository_branch': 'master', 'extra_footer': '', 'home_page_in_toc': True, 'announcement': '', 'analytics': {'google_analytics_id': ''}, 'use_repository_button': True, 'use_edit_page_button': False, 'use_issues_button': True}
-html_title = 'My sample book'
+html_theme_options = {'search_bar_text': 'Search this book...', 'launch_buttons': {'notebook_interface': 'jupyterlab', 'binderhub_url': 'https://mybinder.org', 'jupyterhub_url': '', 'thebe': False, 'colab_url': ''}, 'path_to_docs': 'hw4book', 'repository_url': 'https://github.com//UCB-stat-159-s23/hw04-Group12', 'repository_branch': 'master', 'extra_footer': '', 'home_page_in_toc': True, 'announcement': '', 'analytics': {'google_analytics_id': ''}, 'use_repository_button': True, 'use_edit_page_button': False, 'use_issues_button': True}
+html_title = 'Group 12 Homework 4'
 latex_engine = 'pdflatex'
 myst_enable_extensions = ['colon_fence', 'dollarmath', 'linkify', 'substitution', 'tasklist']
 myst_url_schemes = ['mailto', 'http', 'https']
@@ -25,7 +25,7 @@ nb_execution_allow_errors = False
 nb_execution_cache_path = ''
 nb_execution_excludepatterns = []
 nb_execution_in_temp = False
-nb_execution_mode = 'force'
+nb_execution_mode = 'off'
 nb_execution_timeout = 30
 nb_output_stderr = 'show'
 numfig = True
