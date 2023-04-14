@@ -19,7 +19,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/sarsong/hw04-Group12
+  url: https://github.com/UCB-stat-159-s23/hw04-Group12
   branch: main  
   
 html:
