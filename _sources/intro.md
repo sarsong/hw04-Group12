@@ -2,7 +2,7 @@
 
 Check out the notebook linked below.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sarsong/hw04-Group12/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-s23/hw04-Group12/HEAD)
 
 ```{tableofcontents}
 ```
