@@ -20,7 +20,7 @@ bibtex_bibfiles:
 # Information about where the book exists on the web
 repository:
   url: https://github.com/UCB-stat-159-s23/hw04-Group12
-  branch: main  
+  branch: head  
   
 html:
   use_repository_button : true
